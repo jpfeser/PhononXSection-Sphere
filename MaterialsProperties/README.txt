@@ -1,0 +1,1 @@
+This file stores the mechanical, geometric, and intrinsic scattering properties of the InGaAs material as an object and initializes all properties as needed.  The nanoparticle properties can be reset inside a calling script (see examples in the "PlotGenerators" folder)
